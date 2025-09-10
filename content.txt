@@ -1,0 +1,139 @@
+Vesman Martin – Single Page Portfolio Content (Section-wise)
+1. Hero / Home Section
+
+Tagline:
+Cybersecurity Analyst | Penetration Tester | Generative AI & LLM Enthusiast
+
+Subtext:
+Securing digital systems, building innovative solutions, and exploring the frontiers of AI, machine learning, and cybersecurity.
+
+CTA Buttons:
+
+View My Work
+
+Contact Me
+
+2. About Me
+
+I am Vesman Martin, a dedicated cybersecurity professional with hands-on experience in penetration testing, threat and vulnerability management, and application security. Over the past years, I have successfully discovered 20+ critical vulnerabilities across platforms like Adidas, Nykaa, and Xfinity Comcast, contributing to safer digital environments.
+
+My expertise spans enterprise security, AI-driven solutions, and emerging technologies. I am particularly passionate about Generative AI and Large Language Models (LLM), exploring how these tools can enhance security automation and technology innovation.
+
+I started my journey as a freelance penetration tester and have grown to work with startups, incubation cells, and corporate environments, combining technical knowledge with practical problem-solving. Outside of technology, I enjoy football, volleyball, and actively mentoring peers in tech communities.
+
+3. Skills
+
+Core Technical Skills:
+
+Penetration Testing: Web, mobile, and network application security. Hands-on with Tenable.io, PCI DSS, and threat assessment frameworks.
+
+Cybersecurity Tools & Compliance: Vulnerability scanning, risk analysis, and remediation reporting.
+
+Large Language Models (LLM) & Generative AI: Applied AI solutions for automation and innovation in cybersecurity.
+
+NVIDIA Jetson: Edge AI deployment, robotics, and real-time inference.
+
+Programming & Development: Python, C#, Unity, WebSocket, fabric.js, CUDA.
+
+Other Technical Skills: Cloud basics, ethical hacking, network administration, security research methodologies.
+
+Soft Skills:
+
+Analytical thinking & problem-solving
+
+Effective communication and reporting
+
+Leadership & mentoring
+
+Agile teamwork & collaboration
+
+4. Experience
+
+Information Security Governance Pvt Ltd – Information Security Analyst
+Aug 2024 – Present | Chennai, TN
+
+Conducted automated network and system scans to identify vulnerabilities.
+
+Prioritized and mitigated risks based on exploitability and business impact.
+
+Produced detailed security assessment reports with actionable recommendations.
+
+IITM Incubation Cell – Consultant
+Aug 2023 – Aug 2024 | Chennai, TN
+
+Provided security guidance for startups on mobile and web application security.
+
+Supported product development with a focus on secure and scalable solutions.
+
+Maxelerator Foundation – Security Analyst
+Jan 2023 – Aug 2024 | Madurai, TN
+
+Assisted startups in cybersecurity, AI/ML, and product innovation.
+
+Hands-on involvement in hardware troubleshooting and technology prototyping.
+
+IIT Madras Research Park – Project Intern
+Jul 2023 | Chennai, TN
+
+Contributed to projects: HASHTIC (autonomous human transport) and AWCV (autonomous wheelchair).
+
+Delivered functional prototypes in a 1-month intensive internship using SUMO, fabric.js, and Python.
+
+Self-Employed – Penetration Tester
+Oct 2018 – Jan 2023 | India
+
+Conducted independent threat and vulnerability assessments.
+
+Developed expertise in offensive security and bug bounty hunting.
+
+5. Education
+
+Subbulakshmi Lakshmipathy College of Science, Madurai
+B.Sc. Networking – Network & System Administration | 2020 – 2023
+
+Activities: Football, Volleyball, Lab Coordinator
+
+Kendriya Vidyalaya Sangathan, Mandapam CMFRI
+12th Standard – Commerce with Informatics Practices (Python) | 2018 – 2020
+
+Activities: Football, House Captain, Scout Captain
+
+6. Certifications
+
+IIT Madras Research Park Internship (Jul 2023) – Skills: Unity, Python, C#, fabric.js, WebSocket
+
+Cyber Security Foundation Professional Certificate (CSFPC™) – Certiprof (Jan 2021 – Expired Jan 2023)
+
+Life Long Learning (LLL) – Certiprof (Jan 2021 – Expired Jan 2023)
+
+Start Kali Linux, Ethical Hacking and Penetration Testing – Udemy
+
+7. Projects / Blog Highlights
+
+Security Research & Bug Hunting:
+
+XSS & CSRF vulnerabilities in Adidas, Nykaa, Xfinity Comcast.
+
+Published guides on reconnaissance techniques, ethical hacking, and security best practices.
+
+AI & Generative Intelligence Projects:
+
+Applied LLM and generative AI models for cybersecurity automation.
+
+Edge AI deployment on Jetson devices for autonomous robotics projects.
+
+8. Contact
+
+Email: [vesman@example.com
+]
+
+LinkedIn: [linkedin.com/in/vesman-martin]
+
+Medium: [medium.com/@martinvesman26]
+
+GitHub / Portfolio: [link]
+
+Social: Twitter / X, Instagram, Facebook
+
+Call-to-Action:
+“Let’s connect to collaborate on cybersecurity, AI innovation, or next-gen tech projects.”
